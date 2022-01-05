@@ -9,8 +9,8 @@
         <version>1.4.2.RELEASE</version>
     </parent>
 
-    <groupId>com.dy</groupId>
-    <artifactId>dy-logback</artifactId>
+    <groupId>rudysysu.github.com</groupId>
+    <artifactId>springboot-logback</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
